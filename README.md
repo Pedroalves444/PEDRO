@@ -3,10 +3,12 @@
 ## 📊 GitHub Stats
 
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelgoulart&show_icons=true&theme=tokyonight)
+![Pedro Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelgoulart&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique&layout=compact&theme=radical)
+
 
 
 
